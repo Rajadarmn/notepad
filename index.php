@@ -31,7 +31,7 @@ $nomor=0;
     </style>
 </head>
 
-<body style="background-image: url(https://i.pinimg.com/564x/09/cd/37/09cd3751f9e59f3bc82b982059e7b1c8.jpg);">
+<body style="background-image: url(https://i.pinimg.com/236x/68/d6/11/68d611cf833d9030711aad3a2939df8b.jpg);">
   <h3 class="text-dark">
     <!--Navbar bostrap-->
     <nav class="navbar navbar-dark bg-dark">
@@ -104,7 +104,7 @@ $nomor=0;
      
       <footer class="footer">
         <div class="footer-text">
-            <p>Copyright & Copy; 2023 by Raja | ALL Right Reserved</p>
+            <p>Copyright & Copy; 2023 by RAJA DRMN_D | ALL Right Reserved</p>
         </div>
     </footer>
       
